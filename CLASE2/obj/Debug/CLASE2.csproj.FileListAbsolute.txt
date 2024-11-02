@@ -1,0 +1,7 @@
+C:\Users\skipn\source\repos\CLASE2\CLASE2\bin\Debug\CLASE2.exe.config
+C:\Users\skipn\source\repos\CLASE2\CLASE2\bin\Debug\CLASE2.exe
+C:\Users\skipn\source\repos\CLASE2\CLASE2\bin\Debug\CLASE2.pdb
+C:\Users\skipn\source\repos\CLASE2\CLASE2\obj\Debug\CLASE2.csproj.AssemblyReference.cache
+C:\Users\skipn\source\repos\CLASE2\CLASE2\obj\Debug\CLASE2.csproj.CoreCompileInputs.cache
+C:\Users\skipn\source\repos\CLASE2\CLASE2\obj\Debug\CLASE2.exe
+C:\Users\skipn\source\repos\CLASE2\CLASE2\obj\Debug\CLASE2.pdb
